@@ -1,0 +1,101 @@
+text,category
+My card was charged twice for the same order,Billing
+I was billed after I cancelled my subscription,Billing
+Please send me a refund for last month,Billing
+The invoice shows the wrong amount,Billing
+Why did the price go up on my plan,Billing
+I did not receive a receipt for my payment,Billing
+My payment failed but money was deducted from my bank,Billing
+Can I get a discount code applied to my bill,Billing
+I want to change my payment method to a new card,Billing
+There is an unknown charge on my statement,Billing
+How do I download my invoice for tax purposes,Billing
+The coupon I used was not applied at checkout,Billing
+I was overcharged for the premium upgrade,Billing
+Refund has not reached my account after ten days,Billing
+Please update the billing address on my invoice,Billing
+My subscription renewed without any warning,Billing
+Do you accept UPI or only credit cards,Billing
+The total on my bill does not match the cart,Billing
+I need a GST invoice for my purchase,Billing
+Auto renewal charged me and I want my money back,Billing
+Payment page keeps declining my debit card,Billing
+I paid twice by mistake and need one refunded,Billing
+What is the cancellation fee for my plan,Billing
+Extra tax was added to my bill,Billing
+Please explain the charges on my latest invoice,Billing
+The app crashes every time I open it,Technical Issue
+The website is very slow and keeps timing out,Technical Issue
+I get an error message when I upload a file,Technical Issue
+The page shows a blank screen after login,Technical Issue
+Notifications are not working on my phone,Technical Issue
+The video keeps buffering and then freezes,Technical Issue
+Search feature returns no results at all,Technical Issue
+Button does nothing when I click submit,Technical Issue
+The app stopped working after the latest update,Technical Issue
+I cannot connect to the server from my laptop,Technical Issue
+Export to PDF gives a corrupted file,Technical Issue
+The dashboard is not loading any data,Technical Issue
+Sound is missing in the mobile app,Technical Issue
+Error 500 appears when I save my changes,Technical Issue
+Sync between my devices is not working,Technical Issue
+The screen flickers and then the program closes,Technical Issue
+Images are not displaying on the page,Technical Issue
+Bluetooth pairing keeps failing with the app,Technical Issue
+The software freezes whenever I print,Technical Issue
+Download gets stuck at ninety percent,Technical Issue
+Dark mode is broken and text is unreadable,Technical Issue
+The chat feature shows a loading spinner forever,Technical Issue
+App uses too much battery and heats my phone,Technical Issue
+Cannot install the update because it fails midway,Technical Issue
+Form data disappears when I refresh the page,Technical Issue
+I forgot my password and cannot log in,Account Access
+My account got locked after too many attempts,Account Access
+I did not get the verification code on my phone,Account Access
+Please help me change my registered email address,Account Access
+I want to delete my account permanently,Account Access
+Someone else may have accessed my account,Account Access
+Two factor authentication is not letting me in,Account Access
+The reset password link has expired,Account Access
+I cannot update my profile name,Account Access
+My username shows as already taken,Account Access
+How do I link my account with Google sign in,Account Access
+I got a login alert from a new device that was not me,Account Access
+Please unlock my account I am unable to sign in,Account Access
+I want to change my phone number on my profile,Account Access
+Can I merge two accounts into one,Account Access
+The OTP email never arrives in my inbox,Account Access
+My profile picture will not update,Account Access
+I cannot log in after changing my password,Account Access
+How do I turn off two step verification,Account Access
+Please reactivate my deactivated account,Account Access
+Sign up fails saying my email is already registered,Account Access
+I want to add another user to my account,Account Access
+My account was suspended and I do not know why,Account Access
+The security question answer is not accepted,Account Access
+Need help recovering my account without my old number,Account Access
+My order has not arrived yet,Shipping and Delivery
+The tracking page has not updated for five days,Shipping and Delivery
+I received the wrong item in my package,Shipping and Delivery
+The parcel arrived damaged and broken,Shipping and Delivery
+Can I change the delivery address for my order,Shipping and Delivery
+The courier marked it delivered but I got nothing,Shipping and Delivery
+How long will shipping take to my city,Shipping and Delivery
+I want to return a product I bought last week,Shipping and Delivery
+The delivery agent never called me,Shipping and Delivery
+My package is lost in transit,Shipping and Delivery
+Order is missing one item from the box,Shipping and Delivery
+Is express delivery available for my pincode,Shipping and Delivery
+I need to reschedule my delivery to tomorrow,Shipping and Delivery
+The product I received is a different colour,Shipping and Delivery
+How do I track my shipment,Shipping and Delivery
+Delivery was promised yesterday but is still late,Shipping and Delivery
+I want to cancel my order before it ships,Shipping and Delivery
+The box was open when it reached me,Shipping and Delivery
+Where do I send the item for an exchange,Shipping and Delivery
+Courier left my parcel at the wrong house,Shipping and Delivery
+Do you ship internationally,Shipping and Delivery
+Pickup for my return has not happened,Shipping and Delivery
+My order shows shipped but has no tracking number,Shipping and Delivery
+The replacement item has still not been sent,Shipping and Delivery
+Package was returned to the seller without telling me,Shipping and Delivery
